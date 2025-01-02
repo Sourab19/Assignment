@@ -1,3 +1,6 @@
+// Write a JavaScript program to find the most frequent item of an array
+
+
 const arr = [3, 5, 7, 3, 2, 5, 3, 7, 7, 5, 5];
 
 arr.sort();

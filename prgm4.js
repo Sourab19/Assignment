@@ -1,3 +1,6 @@
+// Write a JavaScript program to find the sum of squares of the elements of an array.
+
+
 var a = [1, 2, 3];
 var s = 0;
 var n = a.length;
